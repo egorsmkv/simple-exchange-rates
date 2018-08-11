@@ -9,8 +9,6 @@ const version = "0.1"
 
 var token string
 
-// 697543130:AAH4cXtzwmNmilPqD217BKWHs8ZImMvthps
-
 func init() {
 	flaggy.SetName("Simple Exchange Rates")
 	flaggy.SetDescription("This bot shows the rate of one currency to another currency.")
